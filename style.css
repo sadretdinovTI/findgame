@@ -1,0 +1,67 @@
+.sunsistem {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+#frog {
+    position: absolute;
+    top: 0;
+    left: 115px;
+    margin: 530px 0 0 200px;
+
+}
+
+#turtle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 360px 0 0 550px;
+}
+
+#crocodile {
+    position: absolute;
+    top: 70px;
+    left: 0;
+    margin: 380px 0 0 130px;
+}
+
+#cobra {
+    position: absolute;
+    top: 100px;
+    left: 300px;
+    margin: 380px 0 0 130px;
+}
+
+#iguana {
+    position: absolute;
+    top: 100px;
+    left: 715px;
+    margin: 380px 0 0 130px;
+}
+
+#lizard {
+    position: absolute;
+    top: 5px;
+    left: 120px;
+    margin: 380px 0 0 130px;
+}
+
+#salamander {
+    position: absolute;
+    top: 0;
+    left: -120px;
+    margin: 380px 0 0 130px;
+}
+
+
+#message {
+    position: absolute;
+    font-family: "Times New Roman", Times, serif;
+    background-color: black;
+    color: white;
+    font-size: 20pt;	
+    top: 0;
+    left: 0;
+    margin: 100px 0 0 320px;
+}
